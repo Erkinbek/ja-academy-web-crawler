@@ -1,6 +1,7 @@
 package crawler;
 
 import javax.swing.*;
+import java.io.IOException;
 
 public class WebCrawler extends JFrame {
     public WebCrawler() {
