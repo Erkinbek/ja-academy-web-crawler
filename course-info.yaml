@@ -9,5 +9,6 @@ summary: 'The Web is called so for a reason: all these pages are connected to ma
 programming_language: Java
 programming_language_version: 11
 content:
+- Web Crawler
 - Problems
 mode: Study
