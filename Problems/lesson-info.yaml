@@ -10,3 +10,4 @@ content:
 - A lambda expression with seven arguments
 - Production of all numbers in the range
 - String to double conversion
+- Catching some exceptions
