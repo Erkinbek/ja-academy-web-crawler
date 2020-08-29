@@ -6,16 +6,22 @@ hyperskill_project:
 stages:
 - id: 317
   step: 5459
+  is_completed: true
 - id: 318
   step: 5460
+  is_completed: true
 - id: 319
   step: 5461
+  is_completed: true
 - id: 320
   step: 5462
+  is_completed: false
 - id: 321
   step: 5463
+  is_completed: false
 - id: 322
   step: 5464
+  is_completed: false
 topics:
   0:
   - title: Units of information
@@ -212,8 +218,16 @@ topics:
     theory_id: 5350
   - title: Deque
     theory_id: 5356
-  - title: Basics of multithreading
-    theory_id: 3600
+  - title: Computer programming
+    theory_id: 8739
+  - title: Queue and Stack
+    theory_id: 3576
+  - title: Synchronous, asynchronous, parallel
+    theory_id: 9332
+  - title: Concurrency and parallelism
+    theory_id: 9341
+  - title: Processes and threads
+    theory_id: 9420
   - title: Threads as objects
     theory_id: 4875
   - title: Custom threads
@@ -226,8 +240,6 @@ topics:
     theory_id: 3610
   - title: Thread synchronization
     theory_id: 3557
-  - title: Queue and Stack
-    theory_id: 3576
   - title: Collections and thread-safety
     theory_id: 4984
   - title: Concurrent queues
