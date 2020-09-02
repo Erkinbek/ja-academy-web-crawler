@@ -16,6 +16,8 @@ class Box<Object> {
 
     public void put(Object item) {
     	this.item = item;
+    	Collection a = new Collection();
+    	a.
     }
 
     public Object get() {
